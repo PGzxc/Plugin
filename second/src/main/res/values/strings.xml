@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">second</string>
+    <string name="content">我是被插件加载出来的！</string>
+</resources>
